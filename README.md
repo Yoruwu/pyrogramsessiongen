@@ -8,7 +8,7 @@ This little script will allow you to generate an SessionID for use in Telegram b
 ## Requirements
 
 1. Python
-2. Pyrogram - *you can use pip to install it*. (You may need to use the AUR on Arch)
+2. Pyrogram - *you can use pip to install it*. (You may need to use the AUR on Arch) **Make sure to install the newest version or you may run into errors**
 3. A working brain (**very important**)
 
 
