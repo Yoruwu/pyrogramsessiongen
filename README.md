@@ -37,11 +37,12 @@ python3 gen.py
 ## Features
 
 - Easy to use
-- No bs
-- FREE **yaayyy**
+- Install requiremnts script (for those who cant install pyrogram by themselfs)
+- Better design
 
 ## ToDo
 
 - [x] First Release
 - [ ] Better Code...
 - [ ] GUI for not so techy users
+- [x] Start working on making it look more professional
