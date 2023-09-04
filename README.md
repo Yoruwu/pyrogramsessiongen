@@ -19,7 +19,7 @@ This little script will allow you to generate an SessionID for use in Telegram b
 3. Go to the location where you saved the script and run it with:
 
 ```bash
-python gen.py
+python3 gen.py
 ```
 
 4. Enter your details (**API ID** & **API HASH**) - you can get them from the [Telegram](https://my.telegram.org/auth) page.
