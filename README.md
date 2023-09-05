@@ -9,7 +9,8 @@ This little script will allow you to generate an SessionID for use in Telegram b
 
 1. Python
 2. Pyrogram - script will check for it and auto install it via pip if needed. **Make sure to have the newest version or you may run into errors**
-3. A working brain (**very important**)
+3. pip
+4. A working brain (**very important**)
 
 
 ## How to use
