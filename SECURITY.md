@@ -4,6 +4,7 @@
 
 | Version         | Supported          |
 | --------------- | ------------------ |
+| Alpha 0.0.2     | :white_check_mark: |
 | Alpha 0.0.1     | :white_check_mark: |
 | < Alpha 0.0.1   | :x:                |
 
