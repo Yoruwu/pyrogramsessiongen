@@ -30,7 +30,7 @@ python3 gen.py
 
 ## Legal Information
 
-1. I am not responseable for your actions or your bots
+1. I am not responsible for your actions or your bots
 2. Do not use the script to steal accounts
 3. Do not abuse the Telegram API - They will ban you fast
 
