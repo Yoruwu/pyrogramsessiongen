@@ -28,6 +28,13 @@ python3 gen.py
 6. Use your ID. Make sure to never share it!
 
 
+## Legal Information
+
+1. I am not responseable for your actions or your bots
+2. Do not use the script to steal accounts
+3. Do not abuse the Telegram API - They will ban you fast
+
+
 ## How to disable an ID
 
 1. Login into Telegram
